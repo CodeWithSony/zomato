@@ -6,16 +6,16 @@ It demonstrates clean UI design, responsive layout, and seamless navigation betw
 **📸 Screenshots**
 
 ### 1. Home Page  
-![Home Page](./screenshots/homePageZomato.png)  
+![Home Page](./screenshot/homePageZomato.png)  
 
 ### 2. Service Section
-![Service](./ourServicePageZomato.png)
+![Service](./screenshot/ourServicePageZomato.png)
 
 ### 3. Client Section
-![Client](./clientPageZomato.png)
+![Client](./screenshot/clientPageZomato.png)
 
 ### 4. Contact Section
-![Contact](./contactPageZomato.png)    
+![Contact](./screenshot/contactPageZomato.png)    
 
 
 🚀 **Features**
