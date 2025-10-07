@@ -6,7 +6,7 @@ It demonstrates clean UI design, responsive layout, and seamless navigation betw
 **📸 Screenshots**
 
 ### 1. Home Page  
-![Home Page](./screenshot/homePageZomato.png)  
+![Home Page](./screenshot/homepageZomato.png)  
 
 ### 2. Service Section
 ![Service](./screenshot/ourServicePageZomato.png)
